@@ -1,3 +1,17 @@
+### Instalar o React com TypeScript
+- npx create-react-app expense-tracker --template typescript
+
+### Instalar o CSS com Styled Components
+- npm install styled-components
+
+### Instalar a biblioteca styled para Types
+- npm install -D @types/styled-components
+
+### Inicializar o app
+- npm start
+
+-----------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
