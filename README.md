@@ -10,6 +10,11 @@
 ### Inicializar o app
 - npm start
 
+### Imagem do App
+<div align="center">
+  <img src="https://github.com/leandrodklein/expense-tracker/issues/1#issue-1087236442" />
+</div>
+
 -----------------------------------------
 
 # Getting Started with Create React App
