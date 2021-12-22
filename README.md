@@ -12,7 +12,7 @@
 
 ### Imagem do App
 <div align="center">
-  <img src="https://github.com/leandrodklein/expense-tracker/issues/1#issue-1087236442" />
+ <img src="https://github.com/leandrodklein/expense-tracker/issues/1#issue-1087236442" width="700px"/>
 </div>
 
 -----------------------------------------
